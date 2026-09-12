@@ -1,0 +1,9 @@
+[project]
+name = "ecbs5293-lab04-notebooks"
+version = "0.1.0"
+description = "ECBS5293 lab 4: the notebook lies"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "jupyterlab",
+]
